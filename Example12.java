@@ -14,15 +14,15 @@ public class Example12 {
         
         if(age < 16)
         {
-            System.out.println("You can't drive, " + myname +"." );
+            System.out.println("You can't drive, " + myname + "." );
         }
         else if(age <= 17)
         {
-            System.out.println("You can drive but you can't vote, " + myname +".");
+            System.out.println("You can drive but you can't vote, " + myname + ".");
         }
         else if(age < 25 )
         {
-          System.out.println("You can vote but not rent a car, " + myname +".");   
+          System.out.println("You can vote but not rent a car, " + myname + ".");   
         }
         if(age >= 25)
         {
